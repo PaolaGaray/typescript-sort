@@ -1,6 +1,6 @@
 # Description
 
-This is a little basic Typescript application that sorts the values of some data structures from least to greatest . Theses data structures are an array of numbers, an string and a linked list.
+This is a little basic Typescript application that sorts the values of some data structures from least to greatest. These data structures are an array of numbers, a string and a linked list.
 
 # Goals
 
